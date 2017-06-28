@@ -27,6 +27,11 @@ class GrandPa
 	{
 	echo $this->sirname;
 	}
+	
+	 function heloNim()
+    {
+        echo $this->gender;
+    } 
 }
 
 
